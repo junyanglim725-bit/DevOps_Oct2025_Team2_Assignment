@@ -1,4 +1,4 @@
-name: DevSecOps Multi-Service Pipeline
+name: DevSecOp Multi-Service Pipeline
 
 on:
   push:
